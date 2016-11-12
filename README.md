@@ -5,9 +5,10 @@
 <b>What you need??</b><br />
 <li>Node.js</li>
 <li>Atom.io</li>
-<h2">Tutorial</h2>
-<p>Create a folder (SteamBot) on your desktop. Copy the folder path. Open cmd and write cd <b>(past folder path)</b></><br />
-<br />
+<li>SDA Or Mobile Steam Guard</li>
+<a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">SDA Download here (GitHub)</a>
+<h2>Tutorial</h2>
+Create a folder (SteamBot) on your desktop. Copy the folder path. Open cmd and write cd <b>(past folder path)
 <b>Then you must write:</b><br />
 <li>npm install steam</li>
 <li>npm install client</li>

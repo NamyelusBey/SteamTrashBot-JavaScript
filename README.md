@@ -8,7 +8,7 @@
 <li>SDA Or Mobile Steam Guard</li>
 <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">SDA Download here (GitHub)</a>
 <h2>Tutorial</h2>
-Create a folder (SteamBot) on your desktop. Copy the folder path. Open cmd and write cd <b>(past folder path)
+Create a folder (SteamBot) on your desktop. Copy the folder path. Open cmd and write cd <b>(past folder path)</b>
 <b>Then you must write:</b><br />
 <li>npm install steam</li>
 <li>npm install client</li>

@@ -8,7 +8,8 @@
 <li>SDA Or Mobile Steam Guard</li>
 <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">SDA Download here (GitHub)</a>
 <h2>Tutorial</h2>
-Create a folder (SteamBot) on your desktop. Copy the folder path. Open cmd and write cd <b>(past folder path)</b>
+<a href="https://www.youtube.com/watch?v=sRAvQVf33Xo">My Tutorial video</a>
+Create a folder (SteamBot) on your desktop. Copy the folder path. Open cmd and write cd <b>(past folder path)</b><br />
 <b>Then you must write:</b><br />
 <li>npm install steam</li>
 <li>npm install client</li>
@@ -21,6 +22,3 @@ Create a folder (SteamBot) on your desktop. Copy the folder path. Open cmd and w
 Then you have this installed, open Atom (application). Click on File, Open Folder and find your SteamBot folder. 
 Right-click on the left rail and click on New File. Write a this name= bot.js and save.<br />
 Copy this code and put into bot.js! <a href="http://pastebin.com/WTVEsSz7">Click to Open and Copy Code</a>
-
-
-

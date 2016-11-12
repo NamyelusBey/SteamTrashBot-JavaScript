@@ -6,7 +6,7 @@
 <li>Node.js</li>
 <li>Atom.io</li>
 <h2">Tutorial</h2>
-Create a folder (SteamBot) on your desktop. Copy the folder path. Open cmd and write cd <b>(past folder path)</b><br />
+<p>Create a folder (SteamBot) on your desktop. Copy the folder path. Open cmd and write cd <b>(past folder path)</b></><br />
 <br />
 <b>Then you must write:</b><br />
 <li>npm install steam</li>

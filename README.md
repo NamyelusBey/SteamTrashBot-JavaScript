@@ -22,4 +22,4 @@ Create a folder (SteamBot) on your desktop. Copy the folder path. Open cmd and w
 <a href="https://www.youtube.com/channel/UCd2ujTlK79FsUfF1aEJnh3w">Tutorial #1</a><br />
 <a href="https://youtu.be/kBytUD6SFH0">Tutorial 2#</a><br />
 <h2>Downloads</h2>
-<a href="http://www.mediafire.com/file/kcu4tccalyxqoyu/Steam+Trash+Bot+by+Gumik.rar">Tutorial #1</a><br />
+<a href="http://www.mediafire.com/file/kcu4tccalyxqoyu/Steam+Trash+Bot+by+Gumik.rar">Stream Tash Bot Created By Dr.Gumik</a><br />

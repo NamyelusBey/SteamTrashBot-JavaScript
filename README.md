@@ -22,5 +22,5 @@ Then you have this installed, open Atom (application). Click on File, Open Folde
 Right-click on the left rail and click on New File. Write a this name= bot.js and save.<br />
 Copy this code and put into bot.js! <a href="http://pastebin.com/WTVEsSz7">Click to Open and Copy Code</a>
 <h2>Video Tutorials</h2>
-<a href="https://www.youtube.com/channel/UCd2ujTlK79FsUfF1aEJnh3w">My Tutorial video</a><br />
-<a href="https://youtu.be/kBytUD6SFH0">My Tutorial video</a><br />
+<a href="https://www.youtube.com/channel/UCd2ujTlK79FsUfF1aEJnh3w">Tutorial #1</a><br />
+<a href="https://youtu.be/kBytUD6SFH0">Tutorial 2#</a><br />

@@ -5,10 +5,9 @@
 <b>What you need??</b><br />
 <li>Node.js</li>
 <li>Atom.io</li>
-<li>SDA Or Mobile Steam Guard</li>
+<li>SDA (Only SDA)</li>
 <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">SDA Download here (GitHub)</a>
-<h2>Tutorial</h2>
-<a href="https://www.youtube.com/channel/UCd2ujTlK79FsUfF1aEJnh3w">My Tutorial video</a><br />
+
 Create a folder (SteamBot) on your desktop. Copy the folder path. Open cmd and write cd <b>(past folder path)</b><br />
 <b>Then you must write:</b><br />
 <li>npm install steam</li>
@@ -22,3 +21,6 @@ Create a folder (SteamBot) on your desktop. Copy the folder path. Open cmd and w
 Then you have this installed, open Atom (application). Click on File, Open Folder and find your SteamBot folder. 
 Right-click on the left rail and click on New File. Write a this name= bot.js and save.<br />
 Copy this code and put into bot.js! <a href="http://pastebin.com/WTVEsSz7">Click to Open and Copy Code</a>
+<h2>Video Tutorials</h2>
+<a href="https://www.youtube.com/channel/UCd2ujTlK79FsUfF1aEJnh3w">My Tutorial video</a><br />
+<a href="https://youtu.be/kBytUD6SFH0">My Tutorial video</a><br />

@@ -83,6 +83,15 @@ SteamTrade.on('end', function(status, getItems) {
     });
   }
 });
+
+client.on('friendRelationship', function(sid, relationship) {
+    if(relationship == 2) {
+        client.addFriend(sid);
+        console.log("BOT #1: Added a new friend!");
+        client.chatMessage(sid, 'Hi! I am a bot!');
+    }
+});
+
 ///////////////////////////////////////////////////////////////////////////////
 ////My GitHub: https://github.com/DrGumik
 ///////////////////////////////////////////////////////////////////////////////

@@ -29,7 +29,7 @@ client.logOn({
 console.log("------------------------------------------------------------------")
 console.log("CHANGE ONLY YourAccountName, YourPassword and STEAMID IN WITHDRAW")
 console.log("##  SteamBot Made by GumikCZ  ##")
-console.log("Have a problem?? My youtube channel: https://www.youtube.com/channel/UCd2ujTlK79FsUfF1aEJnh3w")
+console.log("Have a problem?? My youtube channel: Gumik Hraje!")
 console.log("My GitHub with Projects: https://github.com/DrGumik")
 console.log("------------------------------------------------------------------")
 
@@ -53,7 +53,7 @@ friends.on("friendMsg", function(user, msg, type){
 })
 /////////////////////////////////////////////////////// WITHDRAW SYSTEM
 SteamTrade.on("chatMsg", function(msg)  {
-if (msg == "!itemcsgo" && "Your STEAMID") //// You can find steamID on steamrep.com
+if (msg == "!itemcsgo" && "Your STEAMID") //// Change !itemcsgo on your !password  ,  You can find steamID on steamrep.com
 console.log("Giving Items from CSGO!");
 SteamTrade.loadInventory(730,2, function(items){
 SteamTrade.addItems(items);
@@ -83,7 +83,9 @@ SteamTrade.on('end', function(status, getItems) {
     });
   }
 });
-
+///////////////////////////////////////////////////////////////////////////////
+//// UPDATE V.3
+///////////////////////////////////////////////////////////////////////////////
 client.on('friendRelationship', function(sid, relationship) {
     if(relationship == 2) {
         client.addFriend(sid);

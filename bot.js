@@ -17,8 +17,8 @@ var SteamTrade = new SteamTrade();
 ////////////////////// CHANGE ONLY YourAccountName, YourPassword and STEAMID IN WITHDRAW
 
 client.logOn({
-   "accountName": "YourAccountName",
-   "password": "YourPassword"
+   "accountName": "xtrashboy",
+   "password": "5erf8ujm7rtg1azx"
  });
 
  client.on("loggedOn", function(details){
